@@ -5,6 +5,7 @@ with a character and guess which season each scene shows.
 
 ## Gameplay video
 ![Guess The Season Game Gameplay](gameplay-preview.gif)
+
 [Watch the Full Gameplay](https://youtu.be/6BcqfCzrjPA)
 
 ## How to play
