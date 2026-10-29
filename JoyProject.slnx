@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JoyProject/JoyProject.vcxproj" Id="bbab4e8b-f9fe-47df-a449-489d3775f994" />
+</Solution>

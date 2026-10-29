@@ -1,0 +1,21 @@
+﻿# Visual Studio local settings and cache
+.vs/
+*.user
+*.suo
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.idb
+*.ipch
+*.tlog
+*.log
+
+# Stage backups of the code
+*_stage*.cpp
