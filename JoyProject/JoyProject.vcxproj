@@ -132,11 +132,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="JoyProject.cpp" />
     <ClCompile Include="src\character\Character.cpp" />
     <ClCompile Include="src\core\Audio.cpp" />
     <ClCompile Include="src\core\Shapes.cpp" />
     <ClCompile Include="src\core\Texture.cpp" />
+    <ClCompile Include="src\JoyProject.cpp" />
     <ClCompile Include="src\scenes\AutumnScene.cpp" />
     <ClCompile Include="src\scenes\EndScreen.cpp" />
     <ClCompile Include="src\scenes\Environment.cpp" />
