@@ -4,7 +4,8 @@ A small 2D OpenGL game written in C++ (FreeGLUT + GLEW). Explore four seasons
 with a character and guess which season each scene shows.
 
 ## Gameplay video
-[Watch the full gameplay on YouTube](https://youtu.be/6BcqfCzrjPA)
+![Guess The Season Game Gameplay](gameplay-preview.gif)
+[Watch the Full Gameplay](https://youtu.be/6BcqfCzrjPA)
 
 ## How to play
 - Click **PLAY NOW**, then choose the correct season from the four buttons.
